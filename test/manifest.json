@@ -1,0 +1,23 @@
+{
+    "title": "Main Page",
+    "link": "test/main_page.html",
+    "entries": [
+        {
+            "title": "0. Preface",
+            "link": "test/ch00/ch_0.html",
+            "entries": [
+                {
+                    "title": "0.1. Abstract",
+                    "link": "test/ch00/ch_0_1.html"        
+                },
+                {
+                    "title": "0.2. Contributors",
+                    "link": "test/ch00/ch_0_2.html"        
+                }
+            ]
+        },
+        {
+            "href": "test/ch01/manifest.json"
+        }
+    ]
+}
